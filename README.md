@@ -60,7 +60,7 @@ This project is a simple proxy server built using **Express.js** and **Puppeteer
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/proxy.git
+    git clone https://github.com/jasurhaydarovcode/proxy.git
     cd proxy
     ```
 
